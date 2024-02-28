@@ -15,7 +15,7 @@ Once Anaconda is installed, you will want to open the "Anaconda prompt" and set 
 - To deactivate the venv: conda deactivate  
 
 # Install Base packages and load requirements.txt file in your venv    
-From this repository download the requirements.txt file. Once in your venv change direcotories to where the provided requirements.txt file is saved     
+From this repository download the requirements.txt file. Once in your venv change direcotories to where the file is saved     
 - In the command line type: cd PATH (ex. cd C:\Users\Me\ClassifierCode)  
 - Install necessary packages: pip install -r requirements.txt  
 
