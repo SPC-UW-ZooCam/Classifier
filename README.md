@@ -9,7 +9,7 @@ This script requires a few extra steps be completed before being able to run it.
 https://www.anaconda.com/download
 
 # Create a virtual environment (venv) named "classenv"
-Once Anaconda is installed, you will want to open the "Anaconda prompt" and set up your virtual environment. 
+Once Anaconda is installed, you will want to open the "Anaconda prompt" and set up your virtual environment.   
 In the command line type: conda create --name classenv  python=3.11  
 To activate the venv: conda activate classenv  
 to deactivate the venv: conda deactivate  
