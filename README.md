@@ -19,3 +19,5 @@ From this repository download the requirements.txt file. Once in your venv chang
 - In the command line type: cd PATH (ex. cd C:\Users\Me\ClassifierCode)  
 - Install necessary packages: pip install -r requirements.txt  
 
+# Update and Run Image_Classification.py
+Download and 
