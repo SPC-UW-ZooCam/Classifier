@@ -8,14 +8,17 @@ This script requires a few extra steps be completed before being able to run it.
 # Install Anaconda
 https://www.anaconda.com/download
 
-# Create a virtual environment (venv)
+# Create a virtual environment (venv) named "classenv"
 Once Anaconda is installed, you will want to open the "Anaconda prompt" and set up your virtual environment. 
-In the command line type: conda create --name myenv  python=3.11
-To activate the venv: conda activate myenv
+In the command line type: conda create --name classenv  python=3.11
+To activate the venv: conda activate classenv
 to deactivate the venv: conda deactivate
 
-# Install Base packages and load requirements.txt file in your venv
-Using conda install install the following: 
-- conda
+# Install Base packages and load requirements.txt file in your venv    
+From this repository download the requirements.txt file. Once in your venv change direcotories to the location of the requirements.txt  
+In the command line type: cd PATH (ex. cd C:\Users\Me\ClassifierCode)
+Install necessary packages: pip install -r requirements.txt
+
 - conda install pytorch torchvision torchaudio -c pytorch -c conda-forge
-- 
+- Change directories to where the provided requirements.txt file is saved: cd PATH
+- Install the required files: pip install -r requirements.txt
