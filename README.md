@@ -23,9 +23,8 @@ From this repository download the requirements.txt file. Once in your activated 
 Download and open Image_Classification.py in your text editor (I use PyCharm).  
 - Update line 19 with direcotry of unclassified images  
 - Update line 20 with output direcotry path  
-- Update line 21 with location to model PTH file output from the Algorithm
-- SAVE
+- Update line 21 with location to model PTH file output from the Algorithm and save  
 
 From your venv run Image_Classficiation.py
--  cd to where Image_Classfication.py is located
+-  Change directories (cd) to where Image_Classfication.py is located
 -  In the command line run the script: python -m Image_Classification.py
