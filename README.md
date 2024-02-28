@@ -3,7 +3,7 @@ Classifier script which uses the trained model.PTH file to classify unclassified
 
 # Overview
 The classifier was originally created by Michael Stanly with Lynker Analytics and since then has been updated and modified to be more user friendly, although friendly is debatable.
-This script requires a few extra steps be completed before being able to run it. Download the documents 
+This script requires a few extra steps be completed before being able to run it.
 
 # Install Anaconda
 https://www.anaconda.com/download
