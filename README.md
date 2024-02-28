@@ -10,12 +10,12 @@ https://www.anaconda.com/download
 
 # Create a virtual environment (venv)
 Once Anaconda is installed, you will want to open the "Anaconda prompt" and set up your virtual environment. 
-In the command line type: conda create --name myenv  
+In the command line type: conda create --name myenv  python=3.11
 To activate the venv: conda activate myenv
 to deactivate the venv: conda deactivate
 
 # Install Base packages and load requirements.txt file in your venv
 Using conda install install the following: 
-- conda install python
+- conda
 - conda install pytorch torchvision torchaudio -c pytorch -c conda-forge
 - 
