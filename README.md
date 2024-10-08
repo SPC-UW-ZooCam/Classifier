@@ -12,11 +12,10 @@ From this repository download the **requirements.txt** file into your working di
 - (zoop_env) C:\Users\Deana.Crouser\Documents\Algorithm > **pip install -r requirements.txt**  
 
 # Update and Run Image_Classification.py
-Download and open Image_Classification.py in your text editor (I use PyCharm).  
+Download Image_Classification.py into your working directory and open in your text editor (I use PyCharm).  
 - Update line 19 with direcotry of unclassified images  
 - Update line 20 with output direcotry path  
 - Update line 21 with location to model PTH file output from the Algorithm and save  
 
-# From your virtual environment (zoop_env) run Image_Classficiation.py
-Download Image_Classfication.py into your working dirctory and then run the script using the python command  
+In your virtual environment (zoop_env) run Image_Classficiation.py using the python command    
 - (zoop_env) C:\Users\Deana.Crouser\Documents\Algorithm > **python Image_Classficiation.py**  
