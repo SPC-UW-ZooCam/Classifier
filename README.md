@@ -18,4 +18,7 @@ Download Image_Classification.py into your working directory and open in your te
 - Update line 21 with location to model PTH file output from the Algorithm and save  
 
 In your virtual environment (zoop_env) run Image_Classficiation.py using the python command    
-- (zoop_env) C:\Users\Deana.Crouser\Documents\Algorithm > **python Image_Classficiation.py**  
+- (zoop_env) C:\Users\Deana.Crouser\Documents\Algorithm > **python Image_Classficiation.py**
+
+To test your model on images from our system, below is a link to a small subset of unclassified images
+- https://drive.google.com/file/d/1I0oGYxj19Zk7xu-ieOWv9I6ptJ40T_S0/view?usp=sharing
